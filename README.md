@@ -8,3 +8,6 @@ cd ./ImageCliper
 pip install -r ./requirements.txt
 python ./main.py
 ```
+点击"Browse"按钮选择文件，填入想要的宽和高，最后点击保存即可。处理后的图片会保存到源文件同一文件夹下。
+![](./imgs/MainPage.png)
+![](./imgs/Result.png)
